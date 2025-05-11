@@ -342,7 +342,7 @@ const Projects = () => {
               </div>
               <div className="flex justify-between items-center mt-4">
                 <a
-                  href="https://paste-simple-note-saving-web-app.vercel.app/"
+                  href="https://task-manager-app-react-supabase.vercel.app/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
