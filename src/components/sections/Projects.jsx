@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <section
       id="projects"
-      className="min-h-screen flex justify-center items-center py-20"
+      className="min-h-screen flex justify-center items-start py-20"
     >
       <RevealOnScroll>
         <div className="max-w-5xl mx-auto px-4">
